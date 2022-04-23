@@ -1,0 +1,16 @@
+{
+	"name": "FeedMe",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"description": "Student-Faculty feedback system",
+	"author": "@Hyper-Programmer",
+	"version": "1.0.0",
+	"devDependencies": {
+		"jshint": "^2.8.0"
+	},
+	"scripts": {
+		"test": "jshint travis.js"
+	}
+}
